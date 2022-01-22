@@ -6,3 +6,5 @@ In each game, the player has only 3 chances to guess the location of the heart. 
 On the other hand, the game is also over when the player guesses the right location of the heart. The computer will also asks if the player wants to play again or not.
 
 Once the player chooses not to play anymore, the computer will give a summary message of how many games the player has played, and how many times he/she has won or lost, in a grammatically correct way.
+
+Credit: This program (game) was inspired by Angela Yu's "100 Days of Code: The Complete Python Pro Bootcamp" course on Udemy. You can go to the course's page by clicking the following link (not a ref. link): https://www.udemy.com/course/100-days-of-code/
